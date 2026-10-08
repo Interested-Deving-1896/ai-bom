@@ -55,7 +55,19 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 ## Contributors
 
 <!-- AI:start:contributors -->
-_Contributors pending._
+| Contributor | Commits |
+|---|---|
+| [@Zie619](https://github.com/Zie619) | 191 |
+| [@github-actions[bot]](https://github.com/apps/github-actions) | 46 |
+| [@dependabot[bot]](https://github.com/apps/dependabot) | 28 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 6 |
+| [@Aryan-Pillai7](https://github.com/Aryan-Pillai7) | 3 |
+| [@Aroool](https://github.com/Aroool) | 2 |
+| [@cassiocouto](https://github.com/cassiocouto) | 2 |
+| [@JayCode-mx](https://github.com/JayCode-mx) | 2 |
+| [@DhruvGarg111](https://github.com/DhruvGarg111) | 1 |
+| [@subodh182](https://github.com/subodh182) | 1 |
+| [@vazor-code](https://github.com/vazor-code) | 1 |
 <!-- AI:end:contributors -->
 
 ## Origins
